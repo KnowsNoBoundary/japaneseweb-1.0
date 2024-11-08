@@ -1,0 +1,16 @@
+body {
+	margin: 0;
+}
+
+.dialogue-content {
+	padding: 40px 5px;
+}
+
+.dialogue-content p {
+	font-size: 150%;
+	line-height: 2.75;
+}
+
+p .popup {
+	line-height: normal;
+}

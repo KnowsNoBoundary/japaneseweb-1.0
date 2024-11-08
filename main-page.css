@@ -1,0 +1,20 @@
+body {
+	margin: 0;
+}
+
+.dialogue-content {
+	padding: 40px 5px;
+}
+
+.dialogue-content p {
+	font-size: 150%;
+	line-height: 2.75;
+}
+
+p .popup {
+	line-height: normal;
+}
+
+.lesson2, .lesson3, .lesson4, .lesson5, .lesson6, .lesson7, .lesson8, .lesson9, .lesson10, .lesson11, .lesson12 {
+	display: none;
+}

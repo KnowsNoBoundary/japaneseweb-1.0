@@ -1,0 +1,43 @@
+.kanji-to-hiragana {
+	position: relative;
+	background-color: #f7ac43;
+}
+
+.popup {
+	position: absolute;
+	top: -155%;
+	left: 50%;
+	white-space: nowrap;
+	background-color: rgba(247, 172, 67, 0.4);
+	border: 1px solid black;
+	border-radius: 5px;
+	display: none;
+	transform: translateX(-50%);
+}
+
+.kanji-to-hiragana:hover {
+	cursor: pointer;
+}
+
+.kanji-to-hiragana:hover .popup {
+	display: block;
+}
+
+.color1{
+	position: relative;
+	background-color: #f7ac43;
+}
+
+.color2 {
+	position: relative;
+	background-color: #3cc948;
+}
+
+/*.word:hover {
+	cursor: pointer;
+}
+
+.word:hover .popup {
+	display: block;
+}
+*/
